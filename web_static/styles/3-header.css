@@ -9,8 +9,7 @@ header {
 
 .logo {
     margin-left: 20px;
-    background-image: url('../images/logo.png');
     background-size: contain;
-    height: 30px;
+    height: 60px;
     width: auto;
 }
